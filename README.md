@@ -40,6 +40,7 @@ This is an overview of the project's file structure and an explanation of what e
   - Displaying employee data and task lists dynamically.
 - Contains event listeners for user interactions such as button clicks and form submissions.
 
+### **Additional Feature**
 ### 4. `assets/images/`
 - A folder for storing **images** used in the project, such as logos, icons, or employee photos.
 - It is optional and can be used to enhance the visual aspect of the application.
