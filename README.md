@@ -40,7 +40,10 @@ This is an overview of the project's file structure and an explanation of what e
   - Displaying employee data and task lists dynamically.
 - Contains event listeners for user interactions such as button clicks and form submissions.
 
-### **Additional Feature**
+## Additional Feature: Adding Images Based on Your Product
+
+You can enhance your **BPO Management System** by adding images that represent your product, logos, or any visual content that complements your project. This could include images such as the **company logo**, **UI screenshots**, or other product-related visuals.
+
 ### 4. `assets/images/`
 - A folder for storing **images** used in the project, such as logos, icons, or employee photos.
 - It is optional and can be used to enhance the visual aspect of the application.
